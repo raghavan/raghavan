@@ -14,7 +14,10 @@ hi, i'm [Raghavan](https://raghavanlakshmana.com/), a software architect.
 
 
 
-  <img align="right" alt="png" src="https://github.com/raghavan/raghavan/blob/master/dalle_javascript.png" width="500" height="320" />
+  <a href="https://labs.openai.com/s/XEpZJI1s2Fdz6GIs7AMhn0uA">
+    <img align="right" alt="png" src="https://raw.githubusercontent.com/raghavan/raghavan/main/dalle_javascript.png" width="300" />
+  </a>
+
 
 **languages and tools:**  
 
@@ -43,7 +46,6 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=raghavan&show_icons=true&theme=gotham" alt="raghavan" />
 
