@@ -14,8 +14,8 @@ hi, i'm [Raghavan](https://raghavanlakshmana.com/), a software architect.
 
 
 
-  <a href="https://labs.openai.com/s/XEpZJI1s2Fdz6GIs7AMhn0uA">
-    <img align="right" alt="png" src="https://raw.githubusercontent.com/raghavan/raghavan/main/dalle_javascript.png" width="300" />
+  <a href="https://labs.openai.com/s/SDpMzMDOjceb9FnPC9VOoBlW">
+    <img align="right" alt="png" src="https://raw.githubusercontent.com/raghavan/raghavan/main/dalle_avocado.png" width="300" />
   </a>
 
 
