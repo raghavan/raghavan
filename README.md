@@ -36,12 +36,12 @@ hi, i'm [Raghavan](https://raghavanlakshmana.com/), a software architect.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 17 mins   ██████████████████▓░░░░░░   74.96 %
-JavaScript   48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Markdown     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Text         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+TypeScript   6 hrs           ███████████████████▒░░░░░   77.28 %
+JavaScript   48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Text         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
