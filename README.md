@@ -36,10 +36,10 @@ hi, i'm Raghavan, a software architect, working for [Airtable](https://github.co
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   168 hrs 46 mins ████████████████████████▒   97.53 %
-JavaScript   1 hr 48 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+TypeScript   172 hrs 43 mins ████████████████████████▒   97.58 %
+JavaScript   1 hr 48 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 JSON         45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-YAML         42 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+YAML         42 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 Bash         18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 Markdown     15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
