@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm Raghavan, a software architect, working for [Airtable](https://github.com/raghavanlakshmana-at).
+hi, i'm Raghavan, a software architect
 
 
 
