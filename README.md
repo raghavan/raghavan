@@ -13,6 +13,5 @@ YAML         42 mins         ░░░░░░░░░░░░░░░░░
 Bash         18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
-Tracked using WakaTime and GitHub Actions
 <!--END_SECTION:waka-->
 
