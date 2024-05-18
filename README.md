@@ -6,6 +6,10 @@ Hi! I'm Raghavan, a software engineer passionate about building impactful projec
 ## 🚀 Featured Projects
 
 ### [PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer)
+**PdfGptIndexer was featured at the top of Hacker News!**
+<img width="1139" alt="Screenshot 2024-05-18 at 9 38 18 AM" src="https://github.com/raghavan/raghavan/assets/131585/24215a9a-d423-45a8-8c4d-d9ee8b1ec752">
+
+
 [RAG](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) tool for indexing and searching PDF text using OpenAI API and FAISS. Ideal for rapid and accurate information retrieval.
 - **Tech Stack**: Python
 - **Stars**: ![Stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)
