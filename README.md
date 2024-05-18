@@ -1,17 +1,25 @@
-  <a href="https://labs.openai.com/s/SDpMzMDOjceb9FnPC9VOoBlW">
-    <img align="right" alt="png" src="https://raw.githubusercontent.com/raghavan/raghavan/main/dalle_avocado.png" width="300" />
-  </a>
+# Welcome to Raghavan's GitHub 👋
 
-📊 **i spent my time on:**
-<!--START_SECTION:waka-->
+## About Me
+Hi! I'm Raghavan, a software engineer passionate about building impactful projects. 
 
-```txt
-TypeScript       200 hrs 31 mins ██████████████████████▓░░   90.96 %
-Python           6 hrs 55 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Java             2 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-JavaScript       2 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-JSON             1 hr 46 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-```
+## 🚀 Featured Projects
 
-<!--END_SECTION:waka-->
+### [PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer)
+[RAG](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) tool for indexing and searching PDF text using OpenAI API and FAISS. Ideal for rapid and accurate information retrieval.
+- **Tech Stack**: Python
+- **Stars**: ![Stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)
 
+### [Life-Logs](https://github.com/raghavan/Life-Logs)
+Host your own journaling app with OpenAI RAG Summarizer. Log daily events and thoughts, stored locally in SQLite.
+- **Tech Stack**: Python
+- **Stars**: ![Stars](https://img.shields.io/github/stars/raghavan/Life-Logs?style=social)
+
+## 📊 Stats
+
+![Raghavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavan&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavan&layout=compact&theme=dark)
+
+## Connect with Me
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](http://www.raghavan.studio) 
+[![Twitter](https://img.shields.io/twitter/follow/raghavan_kl?style=social)](https://twitter.com/raghavan_kl)
