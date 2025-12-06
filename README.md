@@ -19,11 +19,5 @@ Host your own journaling app with OpenAI RAG Summarizer. Log daily events and th
 - **Tech Stack**: Python
 - **Stars**: ![Stars](https://img.shields.io/github/stars/raghavan/Life-Logs?style=social)
 
-## 📊 Stats
 
-![Raghavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavan&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavan&layout=compact&theme=dark)
 
-## Connect with Me
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](http://www.raghavan.studio) 
-[![Twitter](https://img.shields.io/twitter/follow/raghavan_kl?style=social)](https://twitter.com/raghavan_kl)
