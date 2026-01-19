@@ -1,23 +1,25 @@
 # Welcome to Raghavan's GitHub 👋
 
-## About Me
-Hi! I'm Raghavan, a software engineer passionate about building impactful projects. 
+I leverage AI to build tools at the intersection of productivity, finance and automation.
 
 ## 🚀 Featured Projects
 
+### [SnapScalp](https://github.com/raghavan/snapscalp)
+Enable market scalpers to make buy/sell/hold decisions based on real-time smart money concepts. ![Stars](https://img.shields.io/github/stars/raghavan/snapscalp?style=social)
+
+
 ### [PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer)
-**PdfGptIndexer was featured at the top of [Hacker News](https://news.ycombinator.com/item?id=36648794)!**
-<img width="1139" alt="Screenshot 2024-05-18 at 9 38 18 AM" src="https://github.com/raghavan/raghavan/assets/131585/24215a9a-d423-45a8-8c4d-d9ee8b1ec752">
+**Featured at the top of [Hacker News](https://news.ycombinator.com/item?id=36648794)!**
+<img width="1139" alt="Screenshot 2024-05-18 at 9 38 18 AM" src="https://github.com/raghavan/raghavan/assets/131585/24215a9a-d423-45a8-8c4d-d9ee8b1ec752">
+
+A [RAG](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) tool for indexing and searching documents using LLMs and vector databases.![Stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)
+
+and its local-first privacy focussed version [PdfGptIndexer-Offline](https://github.com/raghavan/pdfgptindexer-offline)
+
+## Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavan&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
 
-[RAG](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) tool for indexing and searching PDF text using OpenAI API and FAISS. Ideal for rapid and accurate information retrieval.
-- **Tech Stack**: Python
-- **Stars**: ![Stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)
-
-### [Life-Logs](https://github.com/raghavan/Life-Logs)
-Host your own journaling app with OpenAI RAG Summarizer. Log daily events and thoughts, stored locally in SQLite.
-- **Tech Stack**: Python
-- **Stars**: ![Stars](https://img.shields.io/github/stars/raghavan/Life-Logs?style=social)
-
-
-
+Made with ❤️ by [Raghavan](https://raghavan.studio)
