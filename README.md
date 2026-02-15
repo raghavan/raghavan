@@ -7,7 +7,7 @@ I leverage AI to build tools at the intersection of productivity, finance and au
 ### [SnapScalp](https://github.com/raghavan/snapscalp)
 <img width="883" height="323" alt="Screenshot 2026-01-18 at 9 15 53 PM" src="https://github.com/user-attachments/assets/96a28098-0f9a-4da3-b44d-a59a5db5506e" />
 
-Enable market scalpers to make buy/sell/hold decisions based on real-time smart money concepts. ![Stars](https://img.shields.io/github/stars/raghavan/snapscalp?style=social)
+Enable market scalpers to make buy/sell/hold decisions based on real-time smart money concepts. ![Stars](https://img.shields.io/github/stars/raghavan/SnapScalp?style=social)
 
 
 ### [PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer)
