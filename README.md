@@ -18,10 +18,6 @@ A [RAG](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) t
 
 and its local-first privacy focussed version [PdfGptIndexer-Offline](https://github.com/raghavan/pdfgptindexer-offline)
 
-## Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavan&layout=compact&langs_count=8&theme=radical"/>
-</div>
 
 
 Made with ❤️ by [Raghavan](https://raghavan.studio)
